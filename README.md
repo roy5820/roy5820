@@ -1,25 +1,24 @@
 
         
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm HanGuyn-Yim. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; I am currently learning Unity game development.
+- 🤔 &nbsp; Explore new technologies and pursue easier and simpler methods of game development.
+- 🎓 &nbsp; Study computer programming, game mathematics, Unity engine, and Godot engine.
+- 💼 &nbsp; I am an aspiring indie game developer.
+- 🌱 &nbsp; I am passionate about game AI and servers.
+- ✍️ &nbsp; We are passionate about dramas and Korean band songs, and are researching better ways to develop games.
+- ☕ &nbsp; To me, coffee is like oil. It is my source of energy, without which I cannot function properly.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android | flutter | J2EE
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
+- 💻 &nbsp; Java | C# | HTML | CSS | JavaScript | PHP | SQL
+- 🛢 &nbsp; MySQL | OracleSQL | MSSQL | Firebase
+- 🔧 &nbsp; Brackets | Visual Studio code | Visual Studio | Unity
+- 🖥 &nbsp; Adobe Photoshop
 
 <br>
 
