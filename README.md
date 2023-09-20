@@ -1,8 +1,7 @@
 
         
-<h2> Hey there! I'm HanGyun-Yim. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Han Gyun Yim.</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I am currently learning Unity game development.
@@ -18,6 +17,7 @@
 - 💻 &nbsp; Java | C# | HTML | CSS | JavaScript | PHP | SQL
 - 🛢 &nbsp; MySQL | OracleSQL | MSSQL | Firebase
 - 🔧 &nbsp; Visual Studio code | Visual Studio
+- 🎮 &nbsp; Unity | Godot
 - 🖥 &nbsp; Adobe Photoshop
 
 <br>
