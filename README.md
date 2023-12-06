@@ -17,7 +17,7 @@
 - 💻 &nbsp; Java | C# | HTML | CSS | JavaScript | PHP | SQL
 - 🛢 &nbsp; MySQL | OracleSQL | MSSQL | Firebase
 - 🔧 &nbsp; Visual Studio code | Visual Studio
-- 🎮 &nbsp; Unity | Godot
+- 🎮 &nbsp; Unity
 - 🖥 &nbsp; Adobe Photoshop
 
 <br>
