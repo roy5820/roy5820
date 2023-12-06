@@ -6,7 +6,7 @@
 
 - 🔭 &nbsp; I am currently learning Unity game development.
 - 🤔 &nbsp; Explore new technologies and pursue easier and simpler methods of game development.
-- 🎓 &nbsp; Study computer programming, game mathematics, Unity engine, and Godot engine.
+- 🎓 &nbsp; Study computer programming, game mathematics, Unity engine.
 - 💼 &nbsp; I am an aspiring indie game developer.
 - 🌱 &nbsp; I am passionate about game AI and servers.
 - ✍️ &nbsp; We are passionate about dramas and Korean band songs, and are researching better ways to develop games.
